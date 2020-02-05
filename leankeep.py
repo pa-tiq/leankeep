@@ -1,13 +1,5 @@
 # -*- coding: utf8 -*-
 
-from bs4 import BeautifulSoup
-from mechanize import Browser
-import urllib.request
-import urllib.parse
-import re
-import sys
-import requests
-import mechanize
 import key
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
