@@ -19,12 +19,14 @@ def leankeep_a():
 
 	driver = webdriver.Firefox()
 	driver.get("https://seguro.leankeep.com/leankeepX4/Security/SignIn.aspx")
-
+	driver.implicitly_wait(30)
 	driver.find_element_by_xpath(username_xpath).send_keys(keys.username)
+	driver.implicitly_wait(30)
 	driver.find_element_by_xpath(password_xpath).send_keys(keys.password)
-	page2 = driver.find_element_by_id(button_id).click()
-	
-	print(page2)
+	driver.implicitly_wait(30)
+	driver.find_element_by_id(button_id).click()
 
+	print("eita")
+	
 
 leankeep_a()

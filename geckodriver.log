@@ -1,0 +1,62 @@
+1580907595125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofileB2eR4X"
+1580907595507	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580907595627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580907595628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580907595628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580907595629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580907597480	Marionette	INFO	Listening on port 56244
+1580907597768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580910654828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofile9MJXkr"
+1580910655914	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580910656055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580910656056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580910656056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580910656056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580910658359	Marionette	INFO	Listening on port 60524
+1580910658458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580910674687	Marionette	INFO	Stopped listening on port 60524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1580910770026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofileWWlt1N"
+1580910770361	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580910770458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580910770458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580910770458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580910770459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580910772226	Marionette	INFO	Listening on port 60589
+1580910772665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
