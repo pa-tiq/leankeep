@@ -60,3 +60,115 @@ JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, l
 JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
 JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
 JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580911390263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofile9sbZUd"
+1580911390610	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580911390719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580911390719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580911390720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580911390720	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580911392747	Marionette	INFO	Listening on port 60905
+1580911392896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580911468307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofilepLIfCY"
+1580911468659	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580911468765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580911468765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580911468765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580911468765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580911470531	Marionette	INFO	Listening on port 60976
+1580911470921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580911847529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofile1l2nc2"
+1580911847874	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580911847977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580911847977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580911847977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580911847978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580911849814	Marionette	INFO	Listening on port 61092
+1580911850155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580912102663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofileARsgmJ"
+1580912103028	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580912103129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580912103129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580912103129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580912103129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580912104937	Marionette	INFO	Listening on port 61192
+1580912105297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580912271910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofileGadxIg"
+1580912272264	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580912272386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580912272386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580912272387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580912272387	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580912274208	Marionette	INFO	Listening on port 61268
+1580912274521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1580912428673	Marionette	INFO	Stopped listening on port 61268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1580912442191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofileX3TcWj"
+1580912442509	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580912442610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580912442610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580912442611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580912442611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580912444360	Marionette	INFO	Listening on port 61510
+1580912444806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580912562599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\patiq\\AppData\\Local\\Temp\\rust_mozprofilegMWFCE"
+1580912562931	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580912563037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580912563037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580912563038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580912563038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580912564881	Marionette	INFO	Listening on port 61578
+1580912565219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1826: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1890: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/LegacyFunctions.js, line 1980: unreachable code after return statement
+JavaScript warning: https://seguro.leankeep.com/leankeepX4/ScriptResource.axd?d=7CBOtiuPBIcLj_XI0XcmmIycFlyNa3wvnVmfmaKSwadFu_NP2rGYAJriAOmH7xHifP-0N0UFHpgsvV3meMcsoXo_FvvGEFK65EsCU4jcLodmU-x6wJRghxBc6f1odO0Ctxsv1jYHHG9o6HBUpXdOgA2&t=64e13740, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1580912595427	Marionette	INFO	Stopped listening on port 61578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
